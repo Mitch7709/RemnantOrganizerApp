@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Acid Stone",
+    "description": "Increases ACID damage by 10% and ACID Resistance by 15%.",
+    "category": ""
+  },
+  {
+    "id": 2,
+    "name": "Ahanae Crystal",
+    "description": " Deal 5% additional damage for each Status Effect the target is suffering from.",
+    "category": ""
+  },
+  {
+    "id": 3,
+    "name": "Akari War Band",
+    "description": "Perfect Dodges increase Critical Chance by 15% and Critical Damage by 15% for 15s.",
+    "category": ""
+  },
+  {
+    "id": 4,
+    "name": "Alchemy Stone",
+    "description": "Increases base Lifesteal by 6% while suffering from a negative STATUS or BLIGHT Effect.",
+    "category": ""
+  },
+  {
+    "id": 5,
+    "name": "Alumni Ring",
+    "description": "Increases all Elemental damage dealt by 10%.",
+    "category": ""
+  },
+  {
+    "id": 6,
+    "name": "Amber Moonstone",
+    "description": "When the wearer's Health drops below 35%, all incoming damage is reduced by 25% and wearer becomes immune to Temporary Status Effects.",
+    "category": ""
+  },
+  {
+    "id": 7,
+    "name": "Anastasija's Inspiration",
+    "description": "When receiving healing effects, gain HASTE for 10s.",
+    "category": ""
+  },
+  {
+    "id": 8,
+    "name": "Archer's Crest",
+    "description": "Increases Projectile Speed by 20% and Decreases Weapon Charge Time by 25%.",
+    "category": ""
+  },
+  {
+    "id": 9,
+    "name": "Assassin's Seal",
+    "description": "Reduces enemy Awareness Range by 25%. Increases all damage dealt to enemies not targeting wearer by 10%.",
+    "category": ""
+  },
+  {
+    "id": 10,
+    "name": "Band Band",
+    "description": "Increases Speed of Revive and being Revived by 35%. Increases Downed Health and Downed Movement Speed by 100%.",
+    "category": ""
+  }
+]
